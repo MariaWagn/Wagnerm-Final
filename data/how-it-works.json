@@ -1,0 +1,12 @@
+[
+    {
+        "title": "How it Works",
+        "desc": "Below are three easy steps to start your reading journey",
+        "step1": "Search For Books",
+        "step1desc": "Search through the provided list of books to find your next read. Books are filtered by genre.",
+		"step2": "Find The Perfect Book",
+        "step2desc": "Look through the book's description and save your favorite book for your next read!",
+		"step3": "Read, Reveiw, and Reach Out",
+        "step3desc": "Read your next book, then come back to the website to leave a review on if you enjoyed the book. Reach out to us if you have any questions or concerns."
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Shatter Me",
+		"genre": "fantasy",
+		"author": "Tahereh Mafi",
+		"desc": "Juliette hasn't touched anyone in exactly 264 days. The last time she did, it was an accident, but The Reestablishment locked her up for murder. No one knows why Juliette's touch is fatal. As long as she doesn't hurt anyone else, no one really cares. The world is too busy crumbling to pieces to pay attention to a 17-year-old girl. Diseases are destroying the population, food is hard to find, birds don't fly anymore, and the clouds are the wrong color. The Reestablishment said their way was the only way to fix things, so they threw Juliette in a cell. Now so many people are dead that the survivors are whispering war—and The Reestablishment has changed its mind. Maybe Juliette is more than a tortured soul stuffed into a poisonous body. Maybe she's exactly what they need right now.",
+		"img": "book1.jpeg",
+		"tags": ["Fantasy","Dystopia", "Science Fiction","Supernatural"],
+		"rate": ["good","1 review","7.0"],
+		"stars": [
+			{
+				"starname": "5 stars",
+				"starpercent":"89"
+			},
+			{
+				"starname": "4 stars",
+				"starpercent":"67"
+			},
+			{
+				"starname": "3 stars",
+				"starpercent":"45"
+			},
+			{
+				"starname": "2 stars",
+				"starpercent":"12"
+			},
+			{
+				"starname": "1 stars",
+				"starpercent":"0"
+			}
+		],
+		"reviews": [
+			{
+				"name": "Admin",
+				"review":"Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis",
+				"date":"April 03, 2016"	
+			}
+		]
+    },
+{
+        "name": "Cinder",
+		"genre": "youngadult",
+		"author": "Marissa Meyer",
+		"desc": "Humans and androids crowd the raucous streets of New Beijing. A deadly plague ravages the population. From space, a ruthless Lunar people watch, waiting to make their move. No one knows that Earth’s fate hinges on one girl. . . . Cinder, a gifted mechanic, is a cyborg. She’s a second-class citizen with a mysterious past, reviled by her stepmother and blamed for her stepsister’s illness. But when her life becomes intertwined with the handsome Prince Kai’s, she suddenly finds herself at the center of an intergalactic struggle, and a forbidden attraction. Caught between duty and freedom, loyalty and betrayal, she must uncover secrets about her past in order to protect her world’s future.",
+		"img": "book2.jpeg",
+		"tags": ["Young Adult","Dystopia", "Science Fiction","Fairy Tales"],
+		"rate": ["very good","2 review","8.5"],
+		"stars": [
+			{
+				"starname": "5 stars",
+				"starpercent":"98"
+			},
+			{
+				"starname": "4 stars",
+				"starpercent":"78"
+			},
+			{
+				"starname": "3 stars",
+				"starpercent":"34"
+			},
+			{
+				"starname": "2 stars",
+				"starpercent":"10"
+			},
+			{
+				"starname": "1 stars",
+				"starpercent":"1"
+			}
+		],
+		"reviews": [
+			{
+				"name": "Admin",
+				"review":"Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis",
+				"date":"April 03, 2016"	
+			},
+			{
+				"name": "helloWorld",
+				"review":"Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis",
+				"date":"April 24, 2023"	
+			}
+		]
+    },
+{
+        "name": "Romancing Mister Bridgerton",
+		"genre": "romance",
+		"author": "Julia Quinn",
+		"desc": "Everyone knows that Colin Bridgerton is the most charming man in London. Penelope Featherington has secretly adored her best friend's brother for...well, it feels like forever. After half a lifetime of watching Colin Bridgerton from afar, she thinks she knows everything about him, until she stumbles across his deepest secret...and fears she doesn't know him at all. Colin Bridgerton is tired of being thought nothing but an empty-headed charmer, tired of everyone's preoccupation with the notorious gossip columnist Lady Whistledown, who can't seem to publish an edition without mentioning him in the first paragraph. But when Colin returns to London from a trip abroad he discovers nothing in his life is quite the same - especially Penelope Featherington! The girl haunting his dreams. But when he discovers that Penelope has secrets of her own, this elusive bachelor must decide...is she his biggest threat - or his promise of a happy ending?",
+		"img": "book3.jpg",
+		"tags": ["Romance","Adult", "Historical","Regency"],
+		"rate": ["okay","1 review","6.0"],
+		"stars": [
+			{
+				"starname": "5 stars",
+				"starpercent":"67"
+			},
+			{
+				"starname": "4 stars",
+				"starpercent":"87"
+			},
+			{
+				"starname": "3 stars",
+				"starpercent":"25"
+			},
+			{
+				"starname": "2 stars",
+				"starpercent":"5"
+			},
+			{
+				"starname": "1 stars",
+				"starpercent":"0"
+			}
+		],
+		"reviews": [
+			{
+				"name": "Admin",
+				"review":"Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis",
+				"date":"April 03, 2016"	
+			}
+		]
+    }	
+]

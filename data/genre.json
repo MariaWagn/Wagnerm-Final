@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Fantasy",
+        "amount": "1 book",
+        "img": "fantasy-cat.jpg"
+    },
+    {
+        "name": "Romance",
+        "amount": "1 book",
+        "img": "romance-cat.jpg"
+    },
+    {
+        "name": "LGBTQ+",
+        "amount": "0 book",
+        "img": "lgbtq-cat.jpg"
+    },
+    {
+        "name": "Mystery-cat",
+        "amount": "0 book",
+        "img": "thriller-cat.jpg"
+    },
+    {
+        "name": "Thriller & Suspense",
+        "amount": "0 book",
+        "img": "thriller-cat.jpg"
+    },
+    {
+        "name": "Young Adult",
+        "amount": "1 book",
+        "img": "youngadult-cat.jpg"
+    }
+]
